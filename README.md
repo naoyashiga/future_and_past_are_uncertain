@@ -1,4 +1,4 @@
-future_and_past_are_uncertain
+future and past are uncertain
 ==============================
 inspired by Rafaël Rozendaal's work [future is uncertain](http://www.futureisuncertain.com/).
 
